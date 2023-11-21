@@ -1,4 +1,4 @@
-- Live Site URL: [View Domo]([https://your-live-site-url.com](https://yacinebedj.github.io/Kiko-LoadingPage/))
+- Live Site URL: [View Domo]([https://your-live-site-url.com](https://yacinebedj.github.io/Kiko-LoadingPage/)
 
 ## My process
 
